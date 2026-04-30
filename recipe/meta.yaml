@@ -32,7 +32,7 @@ requirements:
 
 test:
   imports:
-    - ai_traineree
+    - aitraineree
   commands:
     - pip check
   requires:
